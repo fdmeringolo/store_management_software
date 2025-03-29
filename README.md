@@ -15,7 +15,7 @@ This project is a Python-based store management software designed to help manage
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/store_management_software.git
+    git clone https://github.com/fdmeringolo/store_management_software.git
     ```
 2. Navigate to the project directory:
     ```bash
